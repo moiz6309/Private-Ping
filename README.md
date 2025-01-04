@@ -1,6 +1,6 @@
 #  💬🔐 PRIVATE PING
 
-Welcome to the **Chat Application** – a simple, responsive, and user-friendly real-time chat app! 🌟
+Welcome to the **Private Ping** – a simple, responsive, and user-friendly real-time chat app! 🌟
 
 ## ✨ Features
 
