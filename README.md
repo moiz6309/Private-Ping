@@ -51,15 +51,17 @@ Welcome to the **Chat Application** – a simple, responsive, and user-friendly 
 ## 📂 Project Structure
 
 ```plaintext
-.
 ├── server.js         # Node.js server file
 ├── public/           # Public assets for frontend
+│   ├── chat.html     # Chat HTML file
 │   ├── index.html    # Main HTML file
-│   ├── styles.css    # Custom CSS for styling
-│   └── script.js     # JavaScript for frontend logic
+│   ├── logo.png      # Logo image
+│   ├── script.js     # JavaScript for frontend logic
+│   └── style.css     # Custom CSS for styling
 ├── README.md         # Project documentation
 ├── package.json      # Node.js dependencies
 └── package-lock.json # Dependency lock file
+
 ```
 
 ---
