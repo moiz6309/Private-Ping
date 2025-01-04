@@ -1,6 +1,4 @@
-# PRIVATE_PING
-
-# 📱 Chat Application
+#  💬🔐 PRIVATE PING
 
 Welcome to the **Chat Application** – a simple, responsive, and user-friendly real-time chat app! 🌟
 
@@ -16,7 +14,7 @@ Welcome to the **Chat Application** – a simple, responsive, and user-friendly 
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Node.js, Socket.IO  
+- **Backend**: Node.js,   
 - **Styling**: Custom CSS
 
 ---
